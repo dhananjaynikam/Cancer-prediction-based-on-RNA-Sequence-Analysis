@@ -1,1 +1,3 @@
-# Cancer-prediction-based-on-RNA-Sequence-Analysis
+# Cancer prediction based on RNA Sequence Analysis
+
+We are working on building a Pancreatic Cancer Prediction model that gives highly accurate results thus prevent human intervention in the earlier stages of preliminary analysis of a patient’s gene sample. We drew inspiration for this project by looking at the current world condition and felt that healthcare professional throughout the globe are under extreme workload in these challenging times. We specifically chose to work on a medical sector project as we believe it can help us in building sophisticated automated medical solutions in future. Our project tries to build a solution that can be pivoted to predict various other forms of Cancers as well.
